@@ -1,8 +1,6 @@
 //Comentario de Nuria
 //Javi estuvo aquí. De mí no os librais fácilmente
-/*
-SOY MANU
-*/
+//Soy Manu
 
 
 
